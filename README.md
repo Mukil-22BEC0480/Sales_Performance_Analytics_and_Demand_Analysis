@@ -9,16 +9,17 @@ The project highlights practical skills in SQL analysis, data cleaning, and busi
 ---
 
 ## 📊 Dataset
-The primary source file for this project is:
 
-- **Sales_analysis.xlsx**
+The primary analysis file for this project is:
+- [Sales_analysis.xlsx](Sales_analysis.xlsx)
 
-This file is connected to a MySQL Server database and contains cleaned, analysis-ready data used for:
-- Pivot tables
-- Charts
-- Interactive dashboard creation
+This Excel workbook is connected to a MySQL Server database and contains cleaned, analysis-ready data used to create:
+- Pivot tables  
+- Charts  
+- An interactive dashboard  
 
-The original data is sourced from CSV files that are imported into the database.
+The underlying data is originally sourced from CSV files that are ingested into the database.
+
 
 ---
 
@@ -46,9 +47,11 @@ The original data is sourced from CSV files that are imported into the database.
 The Excel dashboard provides:
 - Interactive pivot tables  
 - Business-focused charts and KPIs  
-- Filters and slicers for dynamic analysis  
+- Filters and slicers for dynamic analysis
 
-Dashboard visuals are included in the repository for reference.
+**Dashboard Preview:**  
+[![Sales Analysis Dashboard](Sales_Analysis_dashboard_image.png)](Sales_Analysis_dashboard_image.png)
+
 
 ---
 
