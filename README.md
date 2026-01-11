@@ -1,4 +1,5 @@
 # Sales_Analysis
+# Sales Analysis & Interactive Dashboard
 
 ## 📌 Overview
 This project demonstrates an end-to-end data analytics workflow to solve business problems using SQL and Excel. The analysis starts with importing CSV data into a SQL database, running analytical queries, documenting insights, and finally building an interactive Excel dashboard using pivot tables and charts.
